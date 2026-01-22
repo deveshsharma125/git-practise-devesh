@@ -1,3 +1,3 @@
 Name: Devesh Kumar Sharma
-Favourite Programming Language: Python
+Favourite Programming Language: Python and javascript
 Learnings: Git and GitHub
